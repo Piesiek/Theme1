@@ -268,7 +268,7 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
+  content: "2137";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
@@ -1233,7 +1233,7 @@ textarea,
   transition: all 0.5s ease-in-out;
 }
 .container-3baos1:before {
-  content: "ClearVision";
+  content: "2137";
   right: 50%;
   text-align: right;
   transform: translateX(50%);
@@ -6732,7 +6732,8 @@ textarea::-webkit-scrollbar {
   background-image: url(https://clearvision.gitlab.io/icons/discord/badgeHypeSquadBalance.svg);
 }
 .profileBadgeHypeSquadOnlineHouse1Winner-3OGyO6 {
-  background-image: url(https://clearvision.gitlab.io/icons/discord/badgeHypeSquadBraveryWinner.svg);
+  background-image: url(https://
+vision.gitlab.io/icons/discord/badgeHypeSquadBraveryWinner.svg);
 }
 .profileBadgeHypeSquadOnlineHouse2Winner-3GW5Sm {
   background-image: url(https://clearvision.gitlab.io/icons/discord/badgeHypeSquadBrillianceWinner.svg);
@@ -9461,6 +9462,7 @@ textarea::-webkit-scrollbar {
 /* a few dropdowns somewhere idk */
 .css-n57xjs-menu {
   background-color: var(--backdrop-overlay);
+	
 }
 
 .css-3vaxre-menu {
